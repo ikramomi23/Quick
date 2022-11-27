@@ -1,0 +1,12 @@
+
+colors
+      Blue        - #0c66ff
+      S. Blue     - #008aff
+      N. Blue     - #0f2656
+      L Grey      - #e6e6e6
+      D. Lavender - #3f3d56
+      Red         - #f15767
+      For Border  - #f1f2f5
+      feature 1   - #fdebed
+      feature 2   - #ebf9f4
+      feature 3   - #fff7e8
